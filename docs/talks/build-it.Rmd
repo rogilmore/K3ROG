@@ -1,0 +1,81 @@
+---
+title: "Let's-Build-It"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output: 
+  ioslides_presentation:
+    widescreen: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Build to learn
+
+- Goals
+    - Learn how HF receivers and transmitters really work by building one
+    - Build as a group to learn from one another, have fun
+    - Practice CW skills on radios we've built ourselves
+
+## Option 1: [BitX kit](http://www.hfsignals.com/)
+
+- [BitX 40](http://www.hfsignals.com/index.php/bitx40/) transceiver
+- 40m, 10W SSB, but can be [hacked](http://bitxhacks.blogspot.com/) for CW, more power, etc.
+- $59 (shipped)
+
+---
+
+<div class="centered">
+<a href="http://www.hfsignals.com/index.php/2017/11/23/wiring-up-the-bitx40/">
+<img src="http://www.hfsignals.com/wp-content/uploads/2017/11/bitx40v3_raduino_wiring-768x599.png" height=500px>
+</a>
+</div>
+
+---
+
+<div class="centered">
+<img src="https://1.bp.blogspot.com/-_MwEBX-Qcmg/WFFICBrIa0I/AAAAAAAACWY/aQ3an-zhjHIzSV_kW7Eunp3LBr28RaBWACLcB/s1600/Bitx40.jpg" height=500px/>
+</div>
+
+
+## Option 2: [$\mu$BitX transceiver](http://www.hfsignals.com/index.php/ubitx/)
+
+- 80-10 m, 10 W SSB & CW
+- Preorder was \$109 (shipped), \$129
+
+---
+
+<div class="centered">
+<a href="http://www.hfsignals.com/index.php/ubitx-circuit-description/">
+<img src="http://www.hfsignals.com/wp-content/uploads/2017/12/ubitx_block-1-768x553.png" height=500px>
+</a>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j-yLof4sTtE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+## Option 3: [Bob Heil Pine Board](https://heilsound.com/amateur-radio-post/the-pine-board-project/)
+
+- 80/40 m, 5 W AM transmitter, for CW omit mic preamp/equalizer
+- Tube-based design, featured in January 2018 QST
+- [kit $49](https://www.tubesandmore.com/products/pine-board-am-transmitter-kit-ham-nation-bob-heil)
+
+---
+
+<div class="centered">
+<a href="https://heilsound.com/amateur-radio-post/the-pine-board-project/">
+<img src="https://heilsound.com/wp-content/uploads/2017/04/P1000902.jpeg" height=500 px>
+</a>
+</div>
+
+---
+
+<div class="centered">
+300 V power supply!
+<a href="https://heilsound.com/amateur-radio-post/the-pine-board-project/">
+<img src="https://heilsound.com/wp-content/uploads/2017/04/PS-layout-1024x833.jpg" height=500 px>
+</a>
+
+</div>

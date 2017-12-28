@@ -1,0 +1,15 @@
+---
+title: ""
+---
+
+# K3ROG's ham radio pages
+
+<img src="http://icomamerica.com/en/products/7300/ProductHeader.jpg">
+
+## About
+
+This is a collection of talks and resources about amateur ("ham")" radio.
+
+## Presentations
+
+- [Let's Build It: NARC 2018-01-09](talks/build-it.html)

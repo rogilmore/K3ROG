@@ -1,0 +1,11 @@
+name: "K3ROG's ham radio pages"
+navbar:
+  title: "K3ROG"
+  left:
+    - text: "Home"
+      href: index.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
